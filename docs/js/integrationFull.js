@@ -17,7 +17,7 @@ $(document).ready(function() {
 
   const blockInfo = '&fromBlock=379224&toBlock=latest'
   const balanceInfo = 'account&action=balance&tag=latest&'
-  const contractAddress = '0xAe7606C84e13455Fc53C4c83E2f36c4A3114394d'
+  const contractAddress = '0x3f11c993d3CeD0790630bEEe1bB543FdE165F614'
 
   const totalInvestorsEvent = ''
   const lastDepositEvent = ''
