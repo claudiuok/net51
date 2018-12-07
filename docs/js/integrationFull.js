@@ -19,8 +19,8 @@ $(document).ready(function() {
   const balanceInfo = 'account&action=balance&tag=latest&'
   const contractAddress = '0x3f11c993d3CeD0790630bEEe1bB543FdE165F614'
 
-  const totalInvestorsEvent = ''
-  const lastDepositEvent = ''
+  const totalInvestorsEvent = '0x387d39bfed02fad21f9108b51f3ba7fc3880f84960908214bb7d9460e73116d5'
+  const lastDepositEvent = '0xe31c7b8d08ee7db0afa68782e1028ef92305caeea8626633ad44d413e30f6b2f'
 
   const apiKey = '&apikey=YourApiKeyToken'
 
