@@ -33,7 +33,7 @@ $(document).ready(function() {
 
     const balance = Math.round(web3.utils.fromWei(data.result, 'ether') * 100) / 100
     $('.balanceeth').html( balance )
-    $('.balancedollar').html( balance * 200 )
+    $('.balancedollar').html( balance * 100 )
   })
 
 
